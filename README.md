@@ -11,3 +11,5 @@ Posteriormente se le aplico un Analisis de Datos Exploratorio(EDA) para entender
 * Posibles relaciones.
 
 Utilizando graficas que permitan entender más la data.
+
+La data incluye 205 registros con 26 columnas, algunos valores serán eliminados, algunos serán convertidos y algunas columnas serán modificadas.
